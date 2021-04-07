@@ -32,8 +32,9 @@ Yang akan di tampilkan di awal browser property ID karena pada Id diawali tanda 
 
 ![lat css 1](https://user-images.githubusercontent.com/56376643/113833309-b6fe6e80-97b3-11eb-82c8-501757aa6240.JPG)
 
-2. Divisi – digunakan untuk menyimpan data dalam jumlah yang wajar, membaginya menjadi bagian yang mudah dibaca dan digunakan, serta dapat menyimpan tag HTML lain di dalamnya.
- Hal lain yang perlu Anda ketahui adalah kelas dan ID. Kelas dan ID digunakan dalam CSS untuk memasangkan gaya yang diberikan dengan tempat gaya harus diterapkan dalam file HTML 
+2. Kemudian Buat Body, yaitu isi dan spesifikasi dari dokumen tersebut. Div – digunakan untuk menyimpan data dalam jumlah yang wajar,
+   membaginya menjadi bagian yang mudah dibaca dan digunakan, serta dapat menyimpan tag HTML lain di dalamnya.
+   Kelas dan ID digunakan dalam CSS untuk memasangkan gaya yang diberikan dengan tempat gaya harus diterapkan dalam file HTML. 
 
 ![lat css 2](https://user-images.githubusercontent.com/56376643/113834322-e6fa4180-97b4-11eb-9bb4-1c7ba90adac8.JPG)
 
@@ -41,7 +42,7 @@ Yang akan di tampilkan di awal browser property ID karena pada Id diawali tanda 
 
 ![lat css 4](https://user-images.githubusercontent.com/56376643/113834331-e8c40500-97b4-11eb-8428-4d4fdec32ea9.JPG)
 
-3. dan beginilah hasinya setelah file di drag ke browser.
+
 
 
 
