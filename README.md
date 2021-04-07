@@ -17,3 +17,13 @@ Dan hasilnya pada browser di tampilkan CSS secara internal
 
 ![css 3](https://user-images.githubusercontent.com/56376643/113827863-f45ffd80-97ad-11eb-9748-557fa276748b.JPG)
 
+# Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf">
+
+Yang akan di tampilkan di awal browser property ID karena pada Id diawali tanda hash/pagar yang lebih spesifik dibandingkan dengan property Class.
+
+![css 4](https://user-images.githubusercontent.com/56376643/113828581-c202d000-97ae-11eb-8d83-d6ed7ddb6329.JPG)
+![css 5](https://user-images.githubusercontent.com/56376643/113829709-0347af80-97b0-11eb-8104-ebfcc805ef0a.JPG)
+
+
+
+
