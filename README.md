@@ -24,6 +24,10 @@ Yang akan di tampilkan di awal browser property ID karena pada Id diawali tanda 
 ![css 4](https://user-images.githubusercontent.com/56376643/113828581-c202d000-97ae-11eb-8d83-d6ed7ddb6329.JPG)
 ![css 5](https://user-images.githubusercontent.com/56376643/113829709-0347af80-97b0-11eb-8104-ebfcc805ef0a.JPG)
 
+Sehingga beginilah hasilnya
+
+![css 5](https://user-images.githubusercontent.com/56376643/113830078-6f2a1800-97b0-11eb-8df7-62701c46386c.JPG)
+
 
 
 
