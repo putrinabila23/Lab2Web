@@ -29,4 +29,21 @@ Sehingga beginilah hasilnya
 ![css 6](https://user-images.githubusercontent.com/56376643/113830189-8ec14080-97b0-11eb-9635-70da3e1c2898.JPG)
 
 # Belajar Menggunakan CSS Pada HTML
+1. Tag head digunakan untuk memuat hal-hal seperti import, membutuhkan dan referensi eksternal, sedangkan tag bagian body digunakan untuk menampung tampilan dan informasi grafik seperti header, footer, gambar , dll.
+
+![lat css 1](https://user-images.githubusercontent.com/56376643/113833309-b6fe6e80-97b3-11eb-82c8-501757aa6240.JPG)
+
+2. Divisi – digunakan untuk menyimpan data dalam jumlah yang wajar, membaginya menjadi bagian yang mudah dibaca dan digunakan, serta dapat menyimpan tag HTML lain di dalamnya.
+ Hal lain yang perlu Anda ketahui adalah kelas dan ID. Kelas dan ID digunakan dalam CSS untuk memasangkan gaya yang diberikan dengan tempat gaya harus diterapkan dalam file HTML 
+
+![lat css 2](https://user-images.githubusercontent.com/56376643/113834322-e6fa4180-97b4-11eb-9bb4-1c7ba90adac8.JPG)
+
+![lat css 3](https://user-images.githubusercontent.com/56376643/113834325-e82b6e80-97b4-11eb-88d3-a759b32abaec.JPG)
+
+![lat css 4](https://user-images.githubusercontent.com/56376643/113834331-e8c40500-97b4-11eb-8428-4d4fdec32ea9.JPG)
+
+3. dan beginilah hasinya setelah file di drag ke browser.
+
+
+
 
