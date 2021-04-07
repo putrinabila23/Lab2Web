@@ -12,3 +12,8 @@ Contohnya: Disini saya meletakkan deklarasi CSS eksternal terlebih dahulu yang b
 Sebagai berikut di mana warna color nya berwarna putih, font-size 60px,front-family Times New roman, aria dan font-variant small-cpas. lalu meletakkan deklarasi CSS secara internal dimama warna color nya berwarna merah , font-size 60px,front-family Times New roman, aria dan font-variant normal
 
 ![css 2](https://user-images.githubusercontent.com/56376643/113827548-a21edc80-97ad-11eb-9fd9-0e643f846103.JPG)
+
+Dan hasilnya pada browser di tampilkan CSS secara internal
+
+![css 3](https://user-images.githubusercontent.com/56376643/113827863-f45ffd80-97ad-11eb-9748-557fa276748b.JPG)
+
