@@ -9,4 +9,6 @@ Contohnya: Disini saya meletakkan deklarasi CSS eksternal terlebih dahulu yang b
 
 ![css 1](https://user-images.githubusercontent.com/56376643/113827328-5ff59b00-97ad-11eb-896e-bb2963d8991b.JPG)
 
+![css 2](https://user-images.githubusercontent.com/56376643/113827548-a21edc80-97ad-11eb-9fd9-0e643f846103.JPG)
 
+Sebagai berikut di mana warna color nya berwarna putih, font-size 60px,front-family Times New roman, aria dan font-variant small-cpas. lalu meletakkan deklarasi CSS secara internal dimama warna color nya berwarna merah , font-size 60px,front-family Times New roman, aria dan font-variant normal
