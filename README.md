@@ -22,9 +22,8 @@ Dan hasilnya pada browser di tampilkan CSS secara internal
 Yang akan di tampilkan di awal browser property ID karena pada Id diawali tanda hash/pagar yang lebih spesifik dibandingkan dengan property Class.
 
 ![css 4](https://user-images.githubusercontent.com/56376643/113828581-c202d000-97ae-11eb-8d83-d6ed7ddb6329.JPG)
-![css 5](https://user-images.githubusercontent.com/56376643/113829709-0347af80-97b0-11eb-8104-ebfcc805ef0a.JPG)
 
-Sehingga beginilah hasilnya
+![css 5](https://user-images.githubusercontent.com/56376643/113829709-0347af80-97b0-11eb-8104-ebfcc805ef0a.JPG)
 
 ![css 6](https://user-images.githubusercontent.com/56376643/113830189-8ec14080-97b0-11eb-9635-70da3e1c2898.JPG)
 
